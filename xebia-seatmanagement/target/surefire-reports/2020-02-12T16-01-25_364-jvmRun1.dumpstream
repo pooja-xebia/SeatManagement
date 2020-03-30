@@ -1,0 +1,29 @@
+# Created at 2020-02-12T16:01:45.598
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: null
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:397)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.base/java.lang.Thread.run(Thread.java:830)
+
+
+# Created at 2020-02-12T16:01:45.615
+Unexpected IOException with stream: 2020-02-12 16:01:45 INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+
+
+# Created at 2020-02-12T16:01:45.626
+Unexpected IOException with stream: 2020-02-12 16:01:45 INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+
+
+# Created at 2020-02-12T16:01:45.627
+Unexpected IOException with stream: 2020-02-12 16:01:45 INFO  o.h.t.s.i.SchemaDropperImpl$DelayedDropActionImpl - HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+
+
+# Created at 2020-02-12T16:01:45.641
+Unexpected IOException with stream: 2020-02-12 16:01:45 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+
+
+# Created at 2020-02-12T16:01:45.645
+Unexpected IOException with stream: 2020-02-12 16:01:45 INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+
+

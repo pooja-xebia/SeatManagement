@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.xebia.seatmanagement.SeatmanagementApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 139.809 s - in com.xebia.seatmanagement.SeatmanagementApplicationTests
